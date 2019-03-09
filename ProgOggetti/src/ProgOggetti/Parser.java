@@ -1,7 +1,6 @@
 package ProgOggetti;
-
 import java.io.*;
-//import java.util.Scanner; 
+
 
 public class Parser {
 	private String percorso;
@@ -78,7 +77,6 @@ public class Parser {
 			System.out.println("");
 		}
 	}
-	
 }
 
 

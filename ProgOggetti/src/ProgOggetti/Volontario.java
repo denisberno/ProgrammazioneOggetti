@@ -1,6 +1,5 @@
 package ProgOggetti;
 
-
 public class Volontario{
 	private int ID_Volontario;
 	private String nome;
